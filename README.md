@@ -1,0 +1,2 @@
+# ConnectFour
+Cpp connect four
